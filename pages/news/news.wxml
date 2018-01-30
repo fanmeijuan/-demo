@@ -1,0 +1,52 @@
+
+<view class="product">
+     <view style='margin-bottom:20rpx;   color:#777;'>服务理念</view>
+     <navigator url="/pages/news/news_detail">
+      <view class='product_box'>
+         <image style='width:240rpx;height:160rpx;' src='../../images/2.jpg'></image> 
+        <view class='product_con'>
+        当错误发生时，发布到 AppService 的事件名，事件对象e
+        </view>
+      </view>
+      </navigator>
+   <navigator url="/pages/news/news_detail">
+      <view class='product_box'>
+         <image style='width:240rpx;height:160rpx;' src='../../images/2.jpg'></image> 
+        <view class='product_con'>
+        当错误发生时，发布到 AppService 的事件名，事件对象e
+        </view>
+      </view>
+      </navigator>
+       <navigator url="/pages/news/news_detail">
+      <view class='product_box'>
+         <image style='width:240rpx;height:160rpx;' src='../../images/2.jpg'></image> 
+        <view class='product_con'>
+        当错误发生时，发布到 AppService 的事件名，事件对象e
+        </view>
+      </view>
+      </navigator>
+       <navigator url="/pages/news/news_detail">
+      <view class='product_box'>
+         <image style='width:240rpx;height:160rpx;' src='../../images/2.jpg'></image> 
+        <view class='product_con'>
+        当错误发生时，发布到 AppService 的事件名，事件对象e
+        </view>
+      </view>
+      </navigator>
+       <navigator url="/pages/news/news_detail">
+      <view class='product_box'>
+         <image style='width:240rpx;height:160rpx;' src='../../images/2.jpg'></image> 
+        <view class='product_con'>
+        当错误发生时，发布到 AppService 的事件名，事件对象e
+        </view>
+      </view>
+      </navigator>
+       <navigator url="/pages/news/news_detail">
+      <view class='product_box'>
+         <image style='width:240rpx;height:160rpx;' src='../../images/2.jpg'></image> 
+        <view class='product_con'>
+        当错误发生时，发布到 AppService 的事件名，事件对象e
+        </view>
+      </view>
+      </navigator>
+</view>

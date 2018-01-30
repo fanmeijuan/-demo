@@ -1,0 +1,29 @@
+<view class='index'>
+<swiper class="swiper" indicator-dots="true" autoplay="true" circular="true" interval="5000" duration="1000">    
+      <block wx:for="{{swipers}}" >   
+     
+        <swiper-item>  
+          <image src="{{item.photo}}" class="slide-image" mode="aspectFill"/>    
+        </swiper-item>    
+      </block>    
+    </swiper>  
+</view>
+ 
+<view class='list'>
+<view class='list_news'>新聞列表>></view>
+
+ <block wx:for="{{news}}" > 
+ <navigator url="/pages/news/news_detail">
+  <view class='list_box'>
+  
+      <image lazy-load="true"src='{{item.photo}}'></image>
+    
+      <view class='list_text'>
+     {{item.title}}
+      </view>
+  </view>
+   </navigator>
+  </block> 
+ 
+</view>
+ 

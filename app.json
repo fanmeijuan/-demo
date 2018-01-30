@@ -1,0 +1,41 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/news/news_detail",
+    "pages/news/news"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#3A8CFF",
+    "navigationBarTitleText": "hello你好！",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar": {
+    "color": "#dddddd",
+    "selectedColor": "#459ae9",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "images/6.png",
+        "selectedIconPath": "images/7.png",
+        "text": "公司盛况"
+      },
+      {
+        "pagePath": "pages/product/product",
+        "iconPath": "images/8.png",
+        "selectedIconPath": "images/9.png",
+        "text": "产品服务"
+      },
+      {
+        "pagePath": "pages/contact/contact",
+        "iconPath": "images/10.png",
+        "selectedIconPath": "images/11.png",
+        "text": "联系我们"
+      }
+    ]
+  }
+  
+}
